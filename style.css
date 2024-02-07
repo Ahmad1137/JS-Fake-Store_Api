@@ -1,0 +1,17 @@
+.heading {
+  text-align: center;
+}
+.p-tag {
+  text-align: center;
+}
+.image {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+.height {
+  height: 98%;
+}
+a {
+  cursor: pointer;
+}
